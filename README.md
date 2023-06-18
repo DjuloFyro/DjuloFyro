@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
+<br>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=DjuloFyro&style=flat-square&color=blue" alt=""/>
+</div>
 
 ---
 <br>
