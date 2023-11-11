@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/julian-gil24/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/Djulicito/">
+  <a href="https://leetcode.com/DjuloFyro/">
     <img src="https://img.shields.io/badge/Leetcode-f67828?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
   <a href="https://www.kaggle.com/juliangil1">
